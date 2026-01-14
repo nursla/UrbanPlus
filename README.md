@@ -30,7 +30,7 @@ https://urbanplus.web.app
 * **Interactive Map Interface:** Seamless navigation across Ankara using Leaflet.js.
 * **Location-Based Reporting:** "Drop a pin" functionality to report issues with exact coordinates.
 * **Real-Time Evidence:** Upload photos of urban issues directly to Firebase Storage.
-* **Smart Categorization:** Filter reports by type (Infrastructure, Cleaning, Parks) or status.
+* **Smart Categorization:** Filter reports by type or status.
 * **Administrative Dashboard:** A dedicated panel for municipality teams to manage issue lifecycles.
 * **GeoJSON Integration:** Visualization of Ankara's official district boundaries.
 * **Role-Based Security:** Distinct interfaces for Guests, Citizens, and Admins.
@@ -65,7 +65,7 @@ Urban+ follows a **Serverless Architecture** where the frontend handles all clie
 
 ### 1. Guest (Visitor)
 * **View Access:** Can view the interactive map and browse existing urban reports.
-* **Filtering:** Can filter reports by category (e.g., Road, Environment) to see issues in specific neighborhoods.
+* **Filtering:** Can filter reports by category (e.g., Road) to see issues in specific neighborhoods.
 * **Restriction:** Cannot report new issues, upload photos, or access the admin panel.
 
 ### 2. Citizen (Authenticated User)
