@@ -6,7 +6,8 @@ Ankara sakinleri için geliştirilmiş; harita tabanlı, gerçek zamanlı kentse
 ![License](https://img.shields.io/badge/License-MIT-blue.svg) ![React](https://img.shields.io/badge/React-18.0-61DAFB?logo=react) ![Firebase](https://img.shields.io/badge/Firebase-Supported-FFCA28?logo=firebase) ![Status](https://img.shields.io/badge/Status-Active-success)
 
 <div align="center">
-  <img width="1498" height="853" alt="image" src="https://github.com/user-attachments/assets/9cd522c5-9063-4a06-b2d7-606d2ec1c83f" />
+  <img width="1490" height="847" alt="image" src="https://github.com/user-attachments/assets/24907caf-678c-41cb-ba64-4d986cffc9d1" />
+
   <br/>
   <h3>Track, Report, Resolve. Shaping Ankara Together.</h3>
 </div>
