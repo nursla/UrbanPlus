@@ -3,7 +3,8 @@ Ankara sakinleri için geliştirilmiş; harita tabanlı, gerçek zamanlı kentse
 
 # 🏙️ Urban+ | Ankara Urban Improvement Platform
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg) ![React](https://img.shields.io/badge/React-18.0-61DAFB?logo=react) ![Firebase](https://img.shields.io/badge/Firebase-Supported-FFCA28?logo=firebase) ![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-blue.svg) ![React](https://img.shields.io/badge/React-18.0-61DAFB?logo=react) ![Firebase](https://img.shields.io/badge/Firebase-Supported-FFCA28?logo=firebase) ![Status](https://img.shields.io/badge/Status-Active-success) [![YouTube](https://img.shields.io/badge/YouTube-Project%20Overview-red?logo=youtube)](https://youtu.be/wy2dxpctzoc)
+
 
 [![Live Demo](https://img.shields.io/badge/Canlı_Demo-Uygulamaya_Git-orange?style=for-the-badge&logo=firebase&logoColor=white)](https://urbanplus.web.app)
 
