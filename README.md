@@ -34,7 +34,13 @@ https://urbanplus.web.app
 * **Administrative Dashboard:** A dedicated panel for municipality teams to manage issue lifecycles.
 * **GeoJSON Integration:** Visualization of Ankara's official district boundaries.
 * **Role-Based Security:** Distinct interfaces for Guests, Citizens, and Admins.
+---
+## 🎨 Corporate Identity & Colors
 
+The project is designed in alignment with the Ankara Metropolitan Municipality's official corporate identity:
+- 🟦 **ABB Navy:** `#093e88` (Primary Theme)
+- 🧊 **ABB Blue:** `#00abe5` (Buttons & Accents)
+- ⬜ **Off-White:** `#fffeff` (Typography & Backgrounds)
 ---
 
 ## 🛠️ Technologies Used
